@@ -1,4 +1,6 @@
-# Lab 01
+# Hands-on 01
+
+> This is a guide for the hands-on in Session 1 of the Python workshop.
 
 Open a new notebook, and explain what it is. Try changing name.
 
